@@ -1,0 +1,8 @@
+{
+  "name": "Private Fantasy Sports",
+  "description": "A free-to-play private fantasy sports platform for custom matches and series with friends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
